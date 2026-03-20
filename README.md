@@ -4,7 +4,7 @@ On partone.postman_collection.json file
 
 ## Second exercise
 
-On parttwo folder
+On tests folder -> second-exercise.spec.ts file
 
 
 
